@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlexMakovka
+- 👀 I’m interested in  написание приложений для IOS и Android, тестировка и тд.
+- 📫 How to reach me  annamakovka1@gmail.com
