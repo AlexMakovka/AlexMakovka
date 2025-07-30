@@ -33,9 +33,8 @@
 ### 🌍 Languages:
 - Ukrainian – native  
 - Russian – native  
-- English – B1  
+- English – B1-B2  
 - German – B1  
-- French – B1
 
 ---
 
