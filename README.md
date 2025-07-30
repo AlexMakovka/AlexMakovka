@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @AlexMakovka
+### 👋 Hi, I’m Oleksandra Makovieieva
 
 🎓 CS graduate from the State University of Intelligent Technologies and Telecommunications, Ukraine  
 📘 Junior Specialist in Computer Science, College of Communication and Informatization (2019–2023)  
