@@ -1,4 +1,4 @@
-👋 Hi, I’m @AlexMakovka
+### 👋 Hi, I’m @AlexMakovka
 
 🎓 CS graduate from the State University of Intelligent Technologies and Telecommunications, Ukraine  
 📘 Junior Specialist in Computer Science, College of Communication and Informatization (2019–2023)  
@@ -6,7 +6,7 @@
 
 ---
 
-👀 I'm interested in:
+### 👀 I'm interested in:
 - Mobile app development (iOS & Android)  
 - Software testing & QA  
 - Python scripting & automation  
@@ -15,14 +15,14 @@
 
 ---
 
-🛠️ Tech Skills:
+### 🛠️ Tech Skills:
 - **Languages:** Python, C++, JavaScript (basic)  
 - **Tools:** Git, Telebot, API integration, Unreal Engine  
 - **Concepts:** OOP, REST API, responsive web design  
 
 ---
 
-🧠 Projects:
+### 🧠 Projects:
 - Telegram currency converter bot (Python, Telebot)  
 - Simple game in Unreal Engine using Blueprints  
 - Websites using HTML/CSS/JS  
@@ -30,7 +30,7 @@
 
 ---
 
-🌍 Languages:
+### 🌍 Languages:
 - Ukrainian – native  
 - Russian – native  
 - English – B1  
@@ -39,5 +39,5 @@
 
 ---
 
-📫 How to reach me:
+### 📫 How to reach me:
 📧 annamakovka1@gmail.com  
